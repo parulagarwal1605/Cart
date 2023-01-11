@@ -1,0 +1,28 @@
+
+  .Cart{
+    display: block;
+    border: 2px solid black;
+    }
+  
+  li{
+    padding: 5px;
+  }
+  button{
+    padding: 5px;
+    margin: 5px;
+    margin-bottom: 15px
+  }
+  input[type="text" i] {
+    padding: 7px 8px;
+    margin-left: 9px;
+    margin-bottom: 15px
+  }
+  input[type="number" i] {
+    padding: 7px 2px;
+    margin-left: 9px;
+    margin-bottom: 15px
+  }
+  h5{
+    font-size: 22px;
+    font-weight: normal;
+  }
