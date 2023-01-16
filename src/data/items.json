@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Bubble",
+      "price": 10.99,
+      "imgUrl": "/imgs/bubble.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Candy",
+      "price": 1199,
+      "imgUrl": "/imgs/candy.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Car",
+      "price": 1.05,
+      "imgUrl": "/imgs/car.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Temple",
+      "price": 14000,
+      "imgUrl": "/imgs/temple.jpg"
+    }
+  ]
