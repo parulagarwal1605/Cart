@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom"
 import { Container } from "react-bootstrap"
 import { Store } from "./pages/Store"
-import { About } from "./pages/About"
+import { About } from "./pages/comments"
 import { ShoppingCartProvider } from "./context/ShoppingCartContext"
 import { Navbar } from "./components/Navbar"
 import { Home } from "./pages/Home"
