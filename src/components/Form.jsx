@@ -7,7 +7,7 @@ const Form = ({ contacts, deleteContact }) => {
     <div className="container">
       <div className="row d-flex flex-column">
         <Link to="add" className="btn btn-outline-dark my-5 ml-auto ">
-          Add Contact
+          Add users details
         </Link>
         <div className="col-md-10 mx-auto my-4">
           <table className="table table-hover">
